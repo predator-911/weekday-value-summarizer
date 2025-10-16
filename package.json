@@ -1,0 +1,8 @@
+{
+  "name": "weekday-value-summarizer",
+  "version": "1.0.0",
+  "main": "solution.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
